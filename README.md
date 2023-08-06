@@ -6,7 +6,7 @@ The inputs are fed using CSV files that contains the
 data in the format:
 
 
-<Course Code> , <Hours Per Week Allocated> , <The Maximum Hours Per Day> , < FacultyCode-Handling The Course > , < Credits >
+Course Code , Hours Per Week Allocated , The Maximum Hours Per Day , FacultyCode-Handling The Course , Credits
 
 
 
