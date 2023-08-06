@@ -1,0 +1,162 @@
+Department: CSE
+
+Department Faculty Codes: 
+MAT ,EVS ,FDS ,FPSD,BEEE,MEN ,SPR ,HSE ,Lab-FPSD,Lab-HSE,Lab-EPL,
+YK,NP,BSK,RK,BR,AB,SP,PS,RK,PS,BU,
+Section: A
+
+Day,1,2,3,4,,5,6,
+MON,MAT ,Lab-EPL,Lab-EPL,Lab-EPL,Break,FDS ,FPSD,
+TUE,BEEE,FDS ,FPSD,EVS ,Break,SPR ,MEN ,
+WED,FDS ,HSE ,FPSD,MAT ,Break,BEEE,EVS ,
+THU,Lab-HSE,Lab-HSE,MAT ,BEEE,Break,EVS ,MAT ,
+FRI,HSE ,Lab-FPSD,Lab-FPSD,Lab-FPSD,Break,MAT ,BEEE,
+
+Section: B
+
+Day,1,2,3,4,,5,6,
+MON,FPSD,FDS ,HSE ,MEN ,Break,EVS ,MAT ,
+TUE,Lab-EPL,Lab-EPL,Lab-EPL,BEEE,Break,FDS ,HSE ,
+WED,MAT ,Lab-FPSD,Lab-FPSD,Lab-FPSD,Break,EVS ,BEEE,
+THU,BEEE,MAT ,Lab-HSE,Lab-HSE,Break,FPSD,EVS ,
+FRI,MAT ,FDS ,BEEE,MAT ,Break,FPSD,SPR ,
+
+
+
+
+
+Department: ECE
+
+Department Faculty Codes: 
+MAT ,EVS ,FED ,CNA,BEIE,MEN ,SPR ,HSE ,Lab-CDL,Lab-HSE,Lab-CNA,
+GK,MSM,VV,BR,GRV,SP,NA,PS,RK,PS,BU,
+Section: A
+
+Day,1,2,3,4,,5,6,
+MON,Lab-CNA,Lab-CNA,Lab-CNA,EVS ,Break,BEIE,MAT ,
+TUE,EVS ,BEIE,MEN ,CNA,Break,HSE ,SPR ,
+WED,BEIE,HSE ,CNA,FED ,Break,MAT ,EVS ,
+THU,MAT ,Lab-CDL,Lab-CDL,Lab-CDL,Break,FED ,CNA,
+FRI,MAT ,FED ,Lab-HSE,Lab-HSE,Break,MAT ,CNA,
+
+Section: B
+
+Day,1,2,3,4,,5,6,
+MON,CNA,FED ,EVS ,SPR ,Break,Lab-HSE,Lab-HSE,
+TUE,MAT ,MAT ,FED ,HSE ,Break,BEIE,CNA,
+WED,HSE ,Lab-CDL,Lab-CDL,Lab-CDL,Break,BEIE,MEN ,
+THU,EVS ,MAT ,MAT ,CNA,Break,BEIE,FED ,
+FRI,EVS ,Lab-CNA,Lab-CNA,Lab-CNA,Break,CNA,MAT ,
+
+
+
+
+
+Department: EEE
+
+Department Faculty Codes: 
+MAT ,EVS ,MECH ,EEE,BEEE,MEN ,SPR ,HSE ,Lab-EEE,Lab-HSE,Lab-EPL,
+CK,TSG,BSK,USA,MSK,AB,SP,EDF,AVK,PS,BU,
+Section: A
+
+Day,1,2,3,4,,5,6,
+MON,MECH ,Lab-EPL,Lab-EPL,Lab-EPL,Break,EEE,MEN ,
+TUE,Lab-EEE,Lab-EEE,Lab-EEE,EVS ,Break,MECH ,BEEE,
+WED,Lab-HSE,Lab-HSE,EVS ,MECH ,Break,MAT ,BEEE,
+THU,HSE ,MAT ,MAT ,SPR ,Break,EEE,EVS ,
+FRI,EEE,MAT ,MAT ,BEEE,Break,HSE ,SPR ,
+
+Section: B
+
+Day,1,2,3,4,,5,6,
+MON,MAT ,MAT ,EVS ,MEN ,Break,MECH ,HSE ,
+TUE,EVS ,Lab-EPL,Lab-EPL,Lab-EPL,Break,SPR ,MECH ,
+WED,BEEE,EEE,MECH ,MAT ,Break,SPR ,MAT ,
+THU,EEE,Lab-EEE,Lab-EEE,Lab-EEE,Break,BEEE,HSE ,
+FRI,BEEE,EEE,Lab-HSE,Lab-HSE,Break,MAT ,EVS ,
+
+
+
+
+
+Department: MECH
+
+Department Faculty Codes: 
+MAT ,EVS ,FME ,CNA,BEEE,MEN ,SPR ,HSE ,Lab-FME,Lab-HSE,Lab-EPL,
+SY,AM,VV,BR,GRV,SP,NA,PS,RK,PS,BU,
+Section: A
+
+Day,1,2,3,4,,5,6,
+MON,BEEE,Lab-HSE,Lab-HSE,MEN ,Break,CNA,FME ,
+TUE,Lab-FME,Lab-FME,Lab-FME,CNA,Break,SPR ,MAT ,
+WED,BEEE,HSE ,CNA,EVS ,Break,FME ,MAT ,
+THU,CNA,MAT ,BEEE,HSE ,Break,FME ,EVS ,
+FRI,EVS ,Lab-EPL,Lab-EPL,Lab-EPL,Break,MAT ,MAT ,
+
+Section: B
+
+Day,1,2,3,4,,5,6,
+MON,Lab-FME,Lab-FME,Lab-FME,CNA,Break,MEN ,BEEE,
+TUE,MAT ,SPR ,EVS ,FME ,Break,Lab-HSE,Lab-HSE,
+WED,EVS ,MAT ,HSE ,CNA,Break,MAT ,FME ,
+THU,Lab-EPL,Lab-EPL,Lab-EPL,BEEE,Break,CNA,FME ,
+FRI,MAT ,HSE ,BEEE,MAT ,Break,CNA,EVS ,
+
+
+
+
+
+Department: CIVIL
+
+Department Faculty Codes: 
+MAT ,EVS ,EMECH ,CFP,BEEE,MEN ,SPR ,HSE ,Lab-CFP,Lab-HSE,Lab-EPL,
+CK,NP,PSG,ASG,VSN,NA,NA,PS,ASG,PS,SKV,
+Section: A
+
+Day,1,2,3,4,,5,6,
+MON,EMECH ,Lab-EPL,Lab-EPL,Lab-EPL,Break,EVS ,CFP,
+TUE,Lab-CFP,Lab-CFP,Lab-CFP,HSE ,Break,SPR ,MEN ,
+WED,MAT ,Lab-HSE,Lab-HSE,BEEE,Break,HSE ,CFP,
+THU,CFP,EMECH ,MAT ,EVS ,Break,MAT ,BEEE,
+FRI,EVS ,CFP,MAT ,BEEE,Break,MAT ,EMECH ,
+
+Section: B
+
+Day,1,2,3,4,,5,6,
+MON,BEEE,EVS ,MEN ,CFP,Break,EMECH ,MAT ,
+TUE,SPR ,HSE ,EVS ,CFP,Break,Lab-HSE,Lab-HSE,
+WED,CFP,Lab-EPL,Lab-EPL,Lab-EPL,Break,BEEE,EMECH ,
+THU,EVS ,MAT ,CFP,MAT ,Break,HSE ,EMECH ,
+FRI,Lab-CFP,Lab-CFP,Lab-CFP,MAT ,Break,BEEE,MAT ,
+
+
+
+
+
+Department: CHEM
+
+Department Faculty Codes: 
+MAT ,EVS ,CHEM ,SMECH,CENG,MEN ,SPR ,HSE ,Lab-CAL,Lab-HSE,Lab-EPL,
+TMR,AM,VSG,RVL,MSN,NA,NA,EDF,PSK,EDF,GRV,
+Section: A
+
+Day,1,2,3,4,,5,6,
+MON,HSE ,CENG,SMECH,EVS ,Break,CHEM ,CENG,
+TUE,Lab-CAL,Lab-CAL,Lab-CAL,SPR ,Break,MEN ,HSE ,
+WED,Lab-EPL,Lab-EPL,Lab-EPL,MAT ,Break,EVS ,MAT ,
+THU,CHEM ,SMECH,CENG,MAT ,Break,MAT ,EVS ,
+FRI,Lab-HSE,Lab-HSE,CHEM ,SMECH,Break,MAT ,CENG,
+
+Section: B
+
+Day,1,2,3,4,,5,6,
+MON,MEN ,SMECH,CENG,MAT ,Break,MAT ,EVS ,
+TUE,Lab-HSE,Lab-HSE,CENG,CENG,Break,HSE ,MAT ,
+WED,SPR ,Lab-CAL,Lab-CAL,Lab-CAL,Break,CHEM ,EVS ,
+THU,SMECH,EVS ,MAT ,CENG,Break,HSE ,CHEM ,
+FRI,SMECH,Lab-EPL,Lab-EPL,Lab-EPL,Break,CHEM ,MAT ,
+
+
+
+
+
